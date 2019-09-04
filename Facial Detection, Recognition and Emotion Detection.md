@@ -143,5 +143,5 @@ Humans are used to non verbal communication. The emotions expressed increases th
 
 You can see the full code on the following github link:
 
-https://github.com/priya-dwivedi/face_and_emotion_detection
+https://github.com/Computervision0907/Face-detection-recognition-Emotion-detection
 
